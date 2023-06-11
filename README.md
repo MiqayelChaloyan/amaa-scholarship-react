@@ -1,5 +1,3 @@
-# amaa-scholarship-react
-
 # Scholarship Annually Web Page
 
 ## Description
@@ -34,7 +32,7 @@ This repository contains the source code for a web page dedicated to providing i
 
 To run the web page locally, follow these instructions:
 
-1. Clone the repository: `git clone [https://github.com/your-username/scholarship-annually.git](https://github.com/MiqayelChaloyan/amaa-scholarship-react.git)`
+1. Clone the repository: `git clone (https://github.com/MiqayelChaloyan/amaa-scholarship-react.git)`
 2. Navigate to the project directory: `cd scholarship-annually`
 3. Install the necessary dependencies: `yarn install`
 4. Start the local development server: `yarn start`
