@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Montserratarm-Regular";
+    src: local("Montserratarm-Regular"), url("./font/Montserratarm-Regular.otf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Mardoto-Thin";
+    src: local("Mardoto-Thin"), url("./font/Mardoto-Thin.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mardoto-Light";
+    src: local("Mardoto-Light"), url("./font/Mardoto-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mardoto-Regular";
+    src: local("Mardoto-Regular"), url("./font/Mardoto-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mardoto-Medium";
+    src: local("Mardoto-Medium"), url("./font/Mardoto-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mardoto-Bold";
+    src: local("Mardoto-Bold"), url("./font/Mardoto-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mardoto-Black";
+    src: local("Mardoto-Black"), url("./font/Mardoto-Black.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}

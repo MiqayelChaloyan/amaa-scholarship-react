@@ -1,0 +1,45 @@
+.ql-toolbar.ql-snow {
+  border: none;
+  background-color: #002b4d;
+  border-radius: 10px;
+}
+
+.ql-snow .ql-fill,
+.ql-snow .ql-stroke.ql-fill {
+  fill: #ffffff;
+}
+
+.ql-snow .ql-picker-label {
+  color: #ffffff;
+}
+
+.ql-snow .ql-picker-options .ql-picker-item {
+  color: black;
+}
+
+.ql-clean > .ql-stroke {
+  color: #ffffff !important;
+}
+
+.ql-snow .ql-stroke {
+  stroke: #ffffff !important;
+}
+
+.ql-editor {
+  height: 302px;
+  border-radius: 10px;
+}
+.ql-editor > p {
+  color: black;
+}
+
+.ql-container.ql-snow {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+
+
+
